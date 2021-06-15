@@ -29,3 +29,8 @@ This application was built with:
 - New sheets can also be  added by using the + buttom
 - Also have features like fonts, font size,background color,text align,text decoration
 - The files are stored in JSON format and currently supports .json extensions only
+
+
+## Licence
+
+This project is licensed under the terms of the MIT license.
